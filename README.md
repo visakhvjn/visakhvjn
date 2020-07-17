@@ -15,5 +15,10 @@ NodeJs, NextJs, Flutter, ReactJs, PHP, CakePHP, JavaScript, HTML, HTML5, CSS, Bo
 * Todo List - [Redux Todo](https://todo-4ebff.web.app/)
 * News Blogger - [Khashkhobar](http://khashkhobar.in/)
 
+### Other Profiles
+* [Hacker Rank](https://www.hackerrank.com/vjnvisakh)
+* [Code Chef](https://www.codechef.com/users/vjnvisakh)
+* [Leet Code](https://leetcode.com/visakhvjn101/)
+
 ### I hang around at 
 [Facebook](https://www.facebook.com/vjnvisakh) || [LinkedIn](https://www.linkedin.com/in/vjnvisakh/) || [Instagram](https://www.instagram.com/vjnvisakh/)
