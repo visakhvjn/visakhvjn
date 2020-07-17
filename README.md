@@ -15,6 +15,9 @@ NodeJs, NextJs, Flutter, ReactJs, PHP, CakePHP, JavaScript, HTML, HTML5, CSS, Bo
 * Todo List - [Redux Todo](https://todo-4ebff.web.app/)
 * News Blogger - [Khashkhobar](http://khashkhobar.in/)
 
+### Ongoing Projects
+* Quiz App 
+
 ### Other Profiles
 * [Hacker Rank](https://www.hackerrank.com/vjnvisakh)
 * [Code Chef](https://www.codechef.com/users/vjnvisakh)
