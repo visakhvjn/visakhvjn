@@ -16,7 +16,8 @@ NodeJs, NextJs, Flutter, ReactJs, PHP, CakePHP, JavaScript, HTML, HTML5, CSS, Bo
 * News Blogger - [Khashkhobar](http://khashkhobar.in/)
 
 ### Ongoing Projects
-* Quiz App 
+* Quiz App - Flutter
+* ToDo App - GraphQl
 
 ### Other Profiles
 [Hacker Rank](https://www.hackerrank.com/vjnvisakh) | [Code Chef](https://www.codechef.com/users/vjnvisakh) | [Leet Code](https://leetcode.com/visakhvjn101/) | [Hacker Earth](https://www.hackerearth.com/@vjnvisakh) | [Stack Overflow](https://stackoverflow.com/users/7426254/visakh-vijayan) | [Coder Byte](https://coderbyte.com/profile/vjnvisakh)
