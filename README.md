@@ -14,6 +14,7 @@ NodeJs, NextJs, Flutter, ReactJs, PHP, CakePHP, JavaScript, HTML, HTML5, CSS, Bo
 * The Calculator - [React Calculator](https://stoic-fermi-015dbe.netlify.app/)
 * Todo List - [Redux Todo](https://todo-4ebff.web.app/)
 * News Blogger - [Khashkhobar](http://khashkhobar.in/)
+* Books & Authors - [Sample Graphql](https://github.com/visakhvjn/books_and_authors)
 
 ### Ongoing Projects
 * Quiz App - Flutter
