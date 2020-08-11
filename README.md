@@ -15,6 +15,7 @@ NodeJs, NextJs, Flutter, ReactJs, PHP, CakePHP, JavaScript, HTML, HTML5, CSS, Bo
 * Todo List - [Redux Todo](https://todo-4ebff.web.app/)
 * News Blogger - [Khashkhobar](http://khashkhobar.in/)
 * Books & Authors - [Sample Graphql](https://github.com/visakhvjn/books_and_authors)
+* Flutter Auth Login - [Auth](https://github.com/visakhvjn/flutter_sign_ins)
 
 ### Ongoing Projects
 * Quiz App - Flutter
