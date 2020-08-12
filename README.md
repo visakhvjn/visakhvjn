@@ -16,6 +16,7 @@ NodeJs, NextJs, Flutter, ReactJs, PHP, CakePHP, JavaScript, HTML, HTML5, CSS, Bo
 * News Blogger - [Khashkhobar](http://khashkhobar.in/)
 * Books & Authors - [Sample Graphql](https://github.com/visakhvjn/books_and_authors)
 * Flutter Auth Login - [Auth](https://github.com/visakhvjn/flutter_sign_ins)
+* Vawsum - [Chrome Extension](https://chrome.google.com/webstore/detail/vawsum/nlnlaejdflfogfdekfjnlfbgbjcapmnn?hl=en)
 
 ### Ongoing Projects
 * Quiz App - Flutter
