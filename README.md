@@ -20,6 +20,7 @@ NodeJs, NextJs, Flutter, ReactJs, PHP, CakePHP, JavaScript, HTML, HTML5, CSS, Bo
 * Flutter Auth Login - [Auth](https://github.com/visakhvjn/flutter_sign_ins)
 * Vawsum - [Chrome Extension](https://chrome.google.com/webstore/detail/vawsum/nlnlaejdflfogfdekfjnlfbgbjcapmnn?hl=en)
 * NestJs+Graphql - [Dummy](https://github.com/visakhvjn/nestjs_graphql)
+* Text-2-Image - [Funny](https://github.com/visakhvjn/text2image)
 
 ### Ongoing Projects
 * Quiz App - Flutter
