@@ -1,11 +1,5 @@
 ## Hi there, this is Visakh Vijayan. 
 
-I am proud Indian Full Stack Engineer :man_technologist: currently working at [SeenIt](https://www.seenit.in/). I love to spend time learning new technologies and the magic they create on the screen. Currently I am doing a comparision among Flutter and React Native. 
-
-When am not learning about Technology, I do the next best thing. Writing about them. You can find me at [TheIndianProgrammer](https://theindianprogrammer.in/)
-
-Let me know how I can contribute to your journey as well.
-
 [![Image](https://ssl-static.libsyn.com/p/assets/3/3/5/5/3355e10978b9597f/BuyCoffeeButton2.png)](https://www.buymeacoffee.com/vjnvisakh)
 
 ### What I :heart:
