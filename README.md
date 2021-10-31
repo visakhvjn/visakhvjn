@@ -4,7 +4,7 @@ I come from the magical land of Kerala and am an aspiring software engineer. I d
 
 Creating softwares is a passion. It takes days of efforts just to think about the design and schema of the software. Although the software development cycle is a pretty boring one, the end result is something I always wait for. I feel very proud when I get to see an actual project which I have been part of being used by a customer.
 
-## What I :heart:
+## What I ❤️
 I love any and all technologies that make automates and makes lives easier. I have got a chance to play around with these yet - 
 ```
 Backend
@@ -25,7 +25,7 @@ Mobile apps - Hybrid
 Flutter, Dart
 ```
 
-## Projects
+## Projects 📽️
 
 I love brainstorming on things and coming up with solutions. At times it is not possible to complete them. But I am pretty sure one day I will bring all my pending projects to completion. Here are a couple of them - 
 
@@ -37,12 +37,16 @@ I love brainstorming on things and coming up with solutions. At times it is not 
 * Vawsum - [Chrome Extension](https://chrome.google.com/webstore/detail/vawsum/nlnlaejdflfogfdekfjnlfbgbjcapmnn?hl=en)
 * Text-2-Image - [Funny](https://text2imagge.herokuapp.com/)
 
-### Other Profiles
+### Other Profiles 👤
 [Hacker Rank](https://www.hackerrank.com/vjnvisakh) | [Code Chef](https://www.codechef.com/users/vjnvisakh) | [Leet Code](https://leetcode.com/visakhvjn101/) | [Hacker Earth](https://www.hackerearth.com/@vjnvisakh) | [Stack Overflow](https://stackoverflow.com/users/7426254/visakh-vijayan) | [Coder Byte](https://coderbyte.com/profile/vjnvisakh)
 
-### Drop me a message on
+### Drop me a message on 👥
 [Facebook](https://www.facebook.com/vjnvisakh) | [LinkedIn](https://www.linkedin.com/in/vjnvisakh/) | [Instagram](https://www.instagram.com/vjnvisakh/)
 
-### Consulting
+### Consulting ⛑️
 
 I help out people all over the globe on [Fiverr](https://www.fiverr.com/vjnvisakh?public_mode=true). If you have something you would like help with, you can drop me a message on Fiverr too. Here is a preview of my [Gigs](https://www.fiverr.com/vjnvisakh?public_mode=true).
+
+### My Blog 💻
+
+If you are a fan of browing the web like I am, I have a place where I scribble things every now and then. You can find my findings at [Here](https://www.thedecode.online/).
