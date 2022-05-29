@@ -42,6 +42,7 @@ I love brainstorming on things and coming up with solutions. At times it is not 
 * Vawsum - [Chrome Extension](https://chrome.google.com/webstore/detail/vawsum/nlnlaejdflfogfdekfjnlfbgbjcapmnn?hl=en)
 * Text-2-Image - [Funny](https://text2imagge.herokuapp.com/)
 * Strapi Projects - [Projects](https://github.com/strapi-projects)
+* Tic Tac Toe - [Game](https://snazzy-tapioca-7e10d9.netlify.app/)
 
 ### Other Profiles 👤
 [Hacker Rank](https://www.hackerrank.com/vjnvisakh) | [Code Chef](https://www.codechef.com/users/vjnvisakh) | [Leet Code](https://leetcode.com/visakhvjn101/) | [Hacker Earth](https://www.hackerearth.com/@vjnvisakh) | [Stack Overflow](https://stackoverflow.com/users/7426254/visakh-vijayan) | [Coder Byte](https://coderbyte.com/profile/vjnvisakh)
