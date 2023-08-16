@@ -4,6 +4,10 @@ I come from the magical land of Kerala and am an aspiring software engineer. I d
 
 Creating softwares is a passion. It takes days of efforts just to think about the design and schema of the software. Although the software development cycle is a pretty boring one, the end result is something I always wait for. I feel very proud when I get to see an actual project which I have been part of being used by a customer.
 
+## Bookmarks
+
+
+
 ## What I ❤️
 I love any and all technologies that make automates and makes lives easier. I have got a chance to play around with these yet - 
 ```
