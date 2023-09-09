@@ -34,6 +34,12 @@ Strapi
 
 ```
 
+## Certifications
+
+1. [Digital Ocean Cloud Platform Fundamentals](https://github.com/visakhvjn/visakhvjn/assets/17998358/ccf69d1a-0b82-4f25-b2ad-9230719cc8e2)
+
+
+
 ## Projects 📽️
 
 I love brainstorming on things and coming up with solutions. At times it is not possible to complete them. But I am pretty sure one day I will bring all my pending projects to completion. Here are a couple of them - 
