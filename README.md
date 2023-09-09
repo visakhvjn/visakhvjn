@@ -5,7 +5,8 @@ easily flexible in handling pressure conditions. I am also motivated to work ind
 or as a team as the situation arises. As an accomplished software engineer with __five+__ years of dedicated experience, I bring a proven track record of delivering innovative software solutions and contributing to the success of dynamic projects. My passion for programming and commitment to excellence have enabled me to consistently exceed expectations and drive results in the ever-evolving tech industry.
 
 ### PROFILES
-[LinkedIn](https://www.linkedin.com/in/the-visakh-vijayan/) | [Medium](https://medium.com/@vjnvisakh) | [Fiverr](https://www.fiverr.com/vjnvisakh?public_mode=true) | [Stack Overflow](https://stackoverflow.com/users/7426254/visakh-vijayan) <br /> [Hacker Rank](https://www.hackerrank.com/vjnvisakh) | [Code Chef](https://www.codechef.com/users/vjnvisakh) | [Leet Code](https://leetcode.com/visakhvjn101/) |  [Hacker Earth](https://www.hackerearth.com/@vjnvisakh) | [Coder Byte](https://coderbyte.com/profile/vjnvisakh)
+Contact @ [LinkedIn](https://www.linkedin.com/in/the-visakh-vijayan/) | [Medium](https://medium.com/@vjnvisakh) | [Fiverr](https://www.fiverr.com/vjnvisakh?public_mode=true) | [Stack Overflow](https://stackoverflow.com/users/7426254/visakh-vijayan) <br /> 
+Compete @ [Hacker Rank](https://www.hackerrank.com/vjnvisakh) | [Code Chef](https://www.codechef.com/users/vjnvisakh) | [Leet Code](https://leetcode.com/visakhvjn101/) |  [Hacker Earth](https://www.hackerearth.com/@vjnvisakh) | [Coder Byte](https://coderbyte.com/profile/vjnvisakh)
 
 <hr />
 
