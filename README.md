@@ -24,17 +24,17 @@ or as a team as the situation arises. As an accomplished software engineer with 
 
 ### WORK EXPERIENCE (5+ years)
 1. __Jalan Technology Consulting Pvt Ltd, Bangalore, India (Oct’ 21 - Present)__
-   - Team lead for a solar lead generation tool for US markets
-   - Team Lead for a product that allowed giving recommendations to products and businesses.
-   - Allowed businesses a bird’s eye view of the ad performance and offer disbursals.
+   - [The Pinch Life](https://thepinchlife.com/) - Team Lead for a popular Facility Management Saas in India.
+   - [SunLead](https://getsunlead.com/) - Team lead for a solar lead generation tool for US markets.
+   - [Recco Joy](https://reccojoy.com/) - Team Lead for a product that allowed giving recommendations to products and businesses. Allowed businesses a bird’s eye view of the ad performance and offer disbursals.
      
-2. __SeenIt Online Pvt Ltd, Kolkata, India (Feb’ 20 - Sep’ 21)__
-   - Migrating the company’s legacy stack built on PHP to the MERN stack.
+3. __SeenIt Online Pvt Ltd, Kolkata, India (Feb’ 20 - Sep’ 21)__
+   - [StyleAde](https://stylesend.io/) - Migrating the company’s legacy stack built on PHP to the MERN stack.
    - Worked on an eCommerce vendor onboarding app that allowed luxury brand CRMs to have a B2C app with the least latency.
    - Worked with elastic search to improve the user search experience along with faceted search.
 
-3. __Vawsum Schools Pvt Ltd (Oct’ 16 - Jan’ 20)__
-   - Designed a payments module for school fee collection and an aggregator panel for the company and the school admins. Paved way for all types of transactions at schools using payment gateways.
+4. __Vawsum Schools Pvt Ltd (Oct’ 16 - Jan’ 20)__
+   - [Vawsum](https://vawsum.com/) - Designed a payments module for school fee collection and an aggregator panel for the company and the school admins. Paved way for all types of transactions at schools using payment gateways.
    - A teaching assistant that allowed to prescribe courses to students based on the classes and curriculum.
    - Integration of a 3rd party time-table generation software for classes. Allowed to assign teachers to free periods and adjusted for absent teachers.
    - Admission inquiry using a Google Forms type model. Customized drag-and-drop forms that allowed to creation of forms for any occasion. Schools used them for admissions, certificates, mark sheets, etc.
