@@ -35,11 +35,11 @@ or as a team as the situation arises. As an accomplished software engineer with 
 
 4. __Vawsum Schools Pvt Ltd (Oct’ 16 - Jan’ 20)__
    - [Vawsum](https://vawsum.com/) - Designed a payments module for school fee collection and an aggregator panel for the company and the school admins. Paved way for all types of transactions at schools using payment gateways.
-   - A teaching assistant that allowed to prescribe courses to students based on the classes and curriculum.
+   - [Vawme](https://vawsum.com/cultivate-21st-century-skills-in-students-vawme-vawsum/) - A teaching assistant that allowed to prescribe courses to students based on the classes and curriculum.
    - Integration of a 3rd party time-table generation software for classes. Allowed to assign teachers to free periods and adjusted for absent teachers.
-   - Admission inquiry using a Google Forms type model. Customized drag-and-drop forms that allowed to creation of forms for any occasion. Schools used them for admissions, certificates, mark sheets, etc.
+   - [Enquiry](https://vawsum.com/growth-best-admission-driving-software/) - Admission inquiry using a Google Forms type model. Customized drag-and-drop forms that allowed to creation of forms for any occasion. Schools used them for admissions, certificates, mark sheets, etc.
    - Integrated RFID readers at schools to set up student attendances which were funneled to parents as well.
-   - Worked on .net to create services for a school bus tracking application. Integrated Google Maps to show a live view of buses on the admin panel.
+   - [Trakkerz](https://trakkerz.com/) - Worked on .net to create services for a school bus tracking application. Integrated Google Maps to show a live view of buses on the admin panel.
    - A simple SMS module for the company to keep track of the SMSes being sent via multiple vendors in a single panel. The panel allowed easy switching between vendors and auto-prioritizing based on load.
 
 <hr />
