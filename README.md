@@ -1,5 +1,4 @@
-# Visakh Vijayan 
-[PDF Version](https://github.com/visakhvjn/visakhvjn/files/12565463/Visakh_Vijayan_Full-Stack_4%2Byrs.pdf)
+# Visakh Vijayan
 
 Having worked closely with all the stakeholders(client, customer, and technical), I am
 easily flexible in handling pressure conditions. I am also motivated to work individually
