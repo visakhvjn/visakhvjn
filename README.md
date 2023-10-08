@@ -7,7 +7,8 @@ or as a team as the situation arises. As an accomplished software engineer with 
 ### PROFILES
 Contact @ [LinkedIn](https://www.linkedin.com/in/the-visakh-vijayan/) | [Medium](https://medium.com/@vjnvisakh) | [Fiverr](https://www.fiverr.com/vjnvisakh?public_mode=true) | [Stack Overflow](https://stackoverflow.com/users/7426254/visakh-vijayan) <br /> 
 Compete @ [Hacker Rank](https://www.hackerrank.com/vjnvisakh) | [Code Chef](https://www.codechef.com/users/vjnvisakh) | [Leet Code](https://leetcode.com/visakhvjn101/) |  [Hacker Earth](https://www.hackerearth.com/@vjnvisakh) | [Coder Byte](https://coderbyte.com/profile/vjnvisakh) <br />
-Reading @ [Goodreads](https://www.goodreads.com/review/list/113974334?ref=nav_mybooks)
+Reading @ [Goodreads](https://www.goodreads.com/review/list/113974334?ref=nav_mybooks) <br />
+Streak @ [FreeCodeCamp](https://www.freecodecamp.org/vjnvisakh) | [Codecademy](https://www.codecademy.com/profiles/vjnvisakh)
 
 <hr />
 
