@@ -55,14 +55,15 @@ Streak @ [FreeCodeCamp](https://www.freecodecamp.org/vjnvisakh) | [Codecademy](h
 ### PROJECTS
 I love brainstorming on things and coming up with solutions. At times it is not possible to complete them. But I am pretty sure one day I will bring all my pending projects to completion. Here are a couple of them - 
 
-1. QuoteQuest - [QuoteQuest](https://effervescent-sprinkles-74c791.netlify.app/)
-2. News Aggregator - [Minutes](https://play.google.com/store/apps/details?id=com.souparnika.minutes)
-3. The Calculator - [React Calculator](https://stoic-fermi-015dbe.netlify.app/)
-4. News Blogger - [Khashkhobar](http://khashkhobar.in/)
-5. Books & Authors - [Sample Graphql](https://github.com/visakhvjn/books_and_authors)
-6. Flutter Auth Login - [Auth](https://github.com/visakhvjn/flutter_sign_ins)
-7. Vawsum - [Chrome Extension](https://chrome.google.com/webstore/detail/vawsum/nlnlaejdflfogfdekfjnlfbgbjcapmnn?hl=en)
-8. Text-2-Image - [Funny](https://text2imagge.herokuapp.com/)
-9. Strapi Projects - [Projects](https://github.com/strapi-projects)
-10. Tic Tac Toe - [Game](https://snazzy-tapioca-7e10d9.netlify.app/)
+1. Typing Master - [Typing Master](https://the-typing-master.netlify.app/) [Currently Working]
+2. QuoteQuest - [QuoteQuest](https://effervescent-sprinkles-74c791.netlify.app/) [Currently Working]
+3. News Aggregator - [Minutes](https://play.google.com/store/apps/details?id=com.souparnika.minutes)
+4. The Calculator - [React Calculator](https://stoic-fermi-015dbe.netlify.app/)
+5. News Blogger - [Khashkhobar](http://khashkhobar.in/)
+6. Books & Authors - [Sample Graphql](https://github.com/visakhvjn/books_and_authors)
+7. Flutter Auth Login - [Auth](https://github.com/visakhvjn/flutter_sign_ins)
+8. Vawsum - [Chrome Extension](https://chrome.google.com/webstore/detail/vawsum/nlnlaejdflfogfdekfjnlfbgbjcapmnn?hl=en)
+9. Text-2-Image - [Funny](https://text2imagge.herokuapp.com/)
+10. Strapi Projects - [Projects](https://github.com/strapi-projects)
+11. Tic Tac Toe - [Game](https://snazzy-tapioca-7e10d9.netlify.app/)
 
