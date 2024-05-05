@@ -60,11 +60,6 @@ I love brainstorming on things and coming up with solutions. At times it is not 
 2. QuoteQuest - [QuoteQuest](https://effervescent-sprinkles-74c791.netlify.app/) [Currently Working]
 3. News Aggregator - [Minutes](https://play.google.com/store/apps/details?id=com.souparnika.minutes)
 4. The Calculator - [React Calculator](https://stoic-fermi-015dbe.netlify.app/)
-5. News Blogger - [Khashkhobar](http://khashkhobar.in/)
-6. Books & Authors - [Sample Graphql](https://github.com/visakhvjn/books_and_authors)
-7. Flutter Auth Login - [Auth](https://github.com/visakhvjn/flutter_sign_ins)
-8. Vawsum - [Chrome Extension](https://chrome.google.com/webstore/detail/vawsum/nlnlaejdflfogfdekfjnlfbgbjcapmnn?hl=en)
-9. Text-2-Image - [Funny](https://text2imagge.herokuapp.com/)
-10. Strapi Projects - [Projects](https://github.com/strapi-projects)
-11. Tic Tac Toe - [Game](https://snazzy-tapioca-7e10d9.netlify.app/)
+5. Vawsum - [Chrome Extension](https://chrome.google.com/webstore/detail/vawsum/nlnlaejdflfogfdekfjnlfbgbjcapmnn?hl=en)
+6. Tic Tac Toe - [Game](https://snazzy-tapioca-7e10d9.netlify.app/)
 
