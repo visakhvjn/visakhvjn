@@ -26,7 +26,7 @@ Streak @ [FreeCodeCamp](https://www.freecodecamp.org/vjnvisakh) | [Codecademy](h
 
 ### WORK EXPERIENCE (5+ years)
 1. __Jalan Technology Consulting Pvt Ltd, Bangalore, India (Oct’ 21 - Present)__
-   - [Bionic](https://app.bionic.platform.jalantechnologies.com/login) - React developer for an AI-powered Fiverr-like platform.
+   - [Bionic](https://app.bionic.platform.jalantechnologies.com/login) - FE developer for an AI-powered Fiverr-like platform with [Artica](https://www.artica.com/)
    - [The Pinch Life](https://thepinchlife.com/) - Team Lead for a popular Facility Management Saas in India.
    - [SunLead](https://getsunlead.com/) - Team lead for a solar lead generation tool for US markets.
    - [Recco Joy](https://reccojoy.com/) - Team Lead for a product that allowed giving recommendations to products and businesses. Allowed businesses a bird’s eye view of the ad performance and offer disbursals.
