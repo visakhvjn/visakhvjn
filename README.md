@@ -56,10 +56,11 @@ Streak @ [FreeCodeCamp](https://www.freecodecamp.org/vjnvisakh) | [Codecademy](h
 ### PROJECTS
 I love brainstorming on things and coming up with solutions. At times it is not possible to complete them. But I am pretty sure one day I will bring all my pending projects to completion. Here are a couple of them - 
 
-1. Typing Master - [Typing Master](https://the-typing-master.netlify.app/) [Currently Working]
-2. QuoteQuest - [QuoteQuest](https://effervescent-sprinkles-74c791.netlify.app/) [Currently Working]
-3. News Aggregator - [Minutes](https://play.google.com/store/apps/details?id=com.souparnika.minutes)
-4. The Calculator - [React Calculator](https://stoic-fermi-015dbe.netlify.app/)
-5. Vawsum - [Chrome Extension](https://chrome.google.com/webstore/detail/vawsum/nlnlaejdflfogfdekfjnlfbgbjcapmnn?hl=en)
-6. Tic Tac Toe - [Game](https://snazzy-tapioca-7e10d9.netlify.app/)
+1. AI Trivia - [AI Trivia](https://trivia-ai.netlify.app/) [Currently Working]
+2. Typing Master - [Typing Master](https://the-typing-master.netlify.app/) [Currently Working]
+3. QuoteQuest - [QuoteQuest](https://effervescent-sprinkles-74c791.netlify.app/) [Currently Working]
+4. News Aggregator - [Minutes](https://play.google.com/store/apps/details?id=com.souparnika.minutes)
+5. The Calculator - [React Calculator](https://stoic-fermi-015dbe.netlify.app/)
+6. Vawsum - [Chrome Extension](https://chrome.google.com/webstore/detail/vawsum/nlnlaejdflfogfdekfjnlfbgbjcapmnn?hl=en)
+7. Tic Tac Toe - [Game](https://snazzy-tapioca-7e10d9.netlify.app/)
 
