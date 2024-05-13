@@ -28,8 +28,8 @@ Streak @ [FreeCodeCamp](https://www.freecodecamp.org/vjnvisakh) | [Codecademy](h
 1. __Jalan Technology Consulting Pvt Ltd, Bangalore, India (Oct’ 21 - Present)__
    - [Bionic](https://app.bionic.platform.jalantechnologies.com/login) - FE developer for an AI-powered Fiverr-like platform with [Artica](https://www.artica.com/)
    - [The Pinch Life](https://thepinchlife.com/) - Team Lead for a popular Facility Management Saas in India.
-   - [SunLead](https://getsunlead.com/) - Team lead for a solar lead generation tool for US markets.
-   - [Recco Joy](https://reccojoy.com/) - Team Lead for a product that allowed giving recommendations to products and businesses. Allowed businesses a bird’s eye view of the ad performance and offer disbursals.
+   - [SunLead](https://getsunlead.com/) - Senior Engineer for a solar lead generation tool for US markets.
+   - [Recco Joy](https://reccojoy.com/) - Senior Engineer for a product that allowed giving recommendations to products and businesses. Allowed businesses a bird’s eye view of the ad performance and offer disbursals.
      
 3. __SeenIt Online Pvt Ltd, Kolkata, India (Feb’ 20 - Sep’ 21)__
    - [StyleAde](https://stylesend.io/) - Migrating the company’s legacy stack built on PHP to the MERN stack.
