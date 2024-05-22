@@ -26,6 +26,7 @@ Streak @ [FreeCodeCamp](https://www.freecodecamp.org/vjnvisakh) | [Codecademy](h
 
 ### WORK EXPERIENCE (5+ years)
 1. __Jalan Technology Consulting Pvt Ltd, Bangalore, India (Oct’ 21 - Present)__
+   - [Nesh](https://www.hellonesh.io/) - BE developer for an AI-powered knowledge engine
    - [Bionic](https://app.bionic.platform.jalantechnologies.com/login) - FE developer for an AI-powered Fiverr-like platform with [Artica](https://www.artica.com/)
    - [The Pinch Life](https://thepinchlife.com/) - Team Lead for a popular Facility Management Saas in India.
    - [SunLead](https://getsunlead.com/) - Senior Engineer for a solar lead generation tool for US markets.
