@@ -26,7 +26,7 @@ Streak @ [FreeCodeCamp](https://www.freecodecamp.org/vjnvisakh) | [Codecademy](h
 
 <hr />
 
-### WORK EXPERIENCE (5+ years)
+### WORK EXPERIENCE (7+ years)
 
 1. **Better Software, Bangalore, India (Oct’ 21 - Present)**
    - [Nesh](https://www.hellonesh.io/) - BE developer for an AI-powered knowledge engine
