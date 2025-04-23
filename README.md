@@ -4,7 +4,7 @@
 
 Having worked closely with all the stakeholders(client, customer, and technical), I am
 easily flexible in handling pressure conditions. I am also motivated to work individually
-or as a team as the situation arises. As an accomplished software engineer with **five+** years of dedicated experience, I bring a proven track record of delivering innovative software solutions and contributing to the success of dynamic projects. My passion for programming and commitment to excellence have enabled me to consistently exceed expectations and drive results in the ever-evolving tech industry.
+or as a team as the situation arises. As an accomplished software engineer with **seven+** years of dedicated experience, I bring a proven track record of delivering innovative software solutions and contributing to the success of dynamic projects. My passion for programming and commitment to excellence have enabled me to consistently exceed expectations and drive results in the ever-evolving tech industry.
 
 ### PROFILES
 
