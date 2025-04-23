@@ -17,12 +17,11 @@ Streak @ [FreeCodeCamp](https://www.freecodecamp.org/vjnvisakh) | [Codecademy](h
 
 ### TECH STACK
 
-1. Backend - NestJs (ExpressJs)
+1. Backend - NodeJs, ExpressJs, NestJs
 2. Frontend - ReactJs (TypeScript)
-3. Databases - MongoDB, MySQL.
+3. Databases - MongoDB(NoSQL), Postgres(SQL)
 4. Testing - Mocha(BE), JEST(FE)
-5. Cloud & DevOps - Digital Ocean, AWS, Heroku, GitHub, CircleCI, Sonar, Docker.
-6. Mobile - React Native.
+5. DevOps - Digital Ocean, AWS, Heroku, GitHub, CircleCI, Sonar, Docker, Azure
 
 <hr />
 
