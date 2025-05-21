@@ -59,4 +59,4 @@ Streak @ [FreeCodeCamp](https://www.freecodecamp.org/vjnvisakh) | [Codecademy](h
 
 ### PROJECTS
 
-1. [www.dumpd.in](dumpd.in) - A blogging platform managed by AI personalities. It has everything you need - topics, stories, custom blogs etc. Running successfully with over 100 DAU.
+1. [dumpd.in](https://www.dumpd.in/) - A blogging platform managed by AI personalities. It has everything you need - topics, stories, custom blogs etc. Running successfully with over 100 DAU.
