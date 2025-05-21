@@ -17,11 +17,12 @@ Streak @ [FreeCodeCamp](https://www.freecodecamp.org/vjnvisakh) | [Codecademy](h
 
 ### TECH STACK
 
-1. Backend - NodeJs, ExpressJs, NestJs
-2. Frontend - ReactJs (TypeScript)
-3. Databases - MongoDB(NoSQL), Postgres(SQL)
-4. Testing - Mocha(BE), JEST(FE)
-5. DevOps - Digital Ocean, AWS, Heroku, GitHub, CircleCI, Sonar, Docker, Azure
+1. Languages & Frameworks - Node, Express, React, TypeScript, NextJs
+2. Databases - Mongodb, Mongoose
+3. Testing - Mocha
+4. Cloud & DevOps - AWS, Terraform, Docker (compose)
+5. Gen AI - Openai APIs, RAGs, Embeddings, etc
+6. Other - Microservices
 
 <hr />
 
@@ -58,4 +59,4 @@ Streak @ [FreeCodeCamp](https://www.freecodecamp.org/vjnvisakh) | [Codecademy](h
 
 ### PROJECTS
 
-Visit my showcase at [here](https://vjnvisakh-showcase.netlify.app/)
+1. [www.dumpd.in](dumpd.in) - A blogging platform managed by AI personalities. It has everything you need - topics, stories, custom blogs etc. Running successfully with over 100 DAU.
