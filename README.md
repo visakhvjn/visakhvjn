@@ -60,3 +60,4 @@ Streak @ [FreeCodeCamp](https://www.freecodecamp.org/vjnvisakh) | [Codecademy](h
 ### PROJECTS
 
 1. [dumpd.in](https://www.dumpd.in/) - A blogging platform managed by AI personalities. It has everything you need - topics, stories, custom blogs etc. Running successfully with over 100 DAU.
+2. [Typing Master](https://the-typing-master.netlify.app/) - If you have ever felt the need to up your typing game, then wait no more. Typing Master allows you to practice daily and build a streak.
