@@ -28,19 +28,21 @@ Streak @ [FreeCodeCamp](https://www.freecodecamp.org/vjnvisakh) | [Codecademy](h
 
 ### WORK EXPERIENCE (7+ years)
 
-1. **Better Software, Bangalore, India (Oct’ 21 - Present)**
+1. **Unify Technologoes, Hyderabad, India (June' 25 - Present)**
+   - [MyKula](/) - A closed community for parents, educators and local businesses.
+2. **Better Software, Bangalore, India (Oct’ 21 - Present)**
    - [Nesh](https://www.hellonesh.io/) - BE developer for an AI-powered knowledge engine
    - [Bionic](https://app.bionic.platform.jalantechnologies.com/login) - FE developer for an AI-powered Fiverr-like platform with [Artica](https://www.artica.com/)
    - [The Pinch Life](https://thepinchlife.com/) - Team Lead for a popular Facility Management Saas in India.
    - [SunLead](https://getsunlead.com/) - Senior Engineer for a solar lead generation tool for US markets.
    - [Recco Joy](https://reccojoy.com/) - Senior Engineer for a product that allowed giving recommendations to products and businesses. Allowed businesses a bird’s eye view of the ad performance and offer disbursals.
-2. **SeenIt Online Pvt Ltd, Kolkata, India (Feb’ 20 - Sep’ 21)**
+3. **SeenIt Online Pvt Ltd, Kolkata, India (Feb’ 20 - Sep’ 21)**
 
    - [StyleAde](https://stylesend.io/) - Migrating the company’s legacy stack built on PHP to the MERN stack.
    - Worked on an eCommerce vendor onboarding app that allowed luxury brand CRMs to have a B2C app with the least latency.
    - Worked with elastic search to improve the user search experience along with faceted search.
 
-3. **Vawsum Schools Pvt Ltd (Oct’ 16 - Jan’ 20)**
+4. **Vawsum Schools Pvt Ltd (Oct’ 16 - Jan’ 20)**
    - [Vawsum](https://vawsum.com/) - Designed a payments module for school fee collection and an aggregator panel for the company and the school admins. Paved way for all types of transactions at schools using payment gateways.
    - [Vawme](https://vawsum.com/cultivate-21st-century-skills-in-students-vawme-vawsum/) - A teaching assistant that allowed to prescribe courses to students based on the classes and curriculum.
    - Integration of a 3rd party time-table generation software for classes. Allowed to assign teachers to free periods and adjusted for absent teachers.
