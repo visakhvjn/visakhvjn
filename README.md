@@ -30,7 +30,7 @@ Streak @ [FreeCodeCamp](https://www.freecodecamp.org/vjnvisakh) | [Codecademy](h
 
 1. **Unify Technologoes, Hyderabad, India (June' 25 - Present)**
    - [MyKula](/) - A closed community for parents, educators and local businesses.
-2. **Better Software, Bangalore, India (Oct’ 21 - Present)**
+2. **Better Software, Bangalore, India (Oct’ 21 - March' 25)**
    - [Nesh](https://www.hellonesh.io/) - BE developer for an AI-powered knowledge engine
    - [Bionic](https://app.bionic.platform.jalantechnologies.com/login) - FE developer for an AI-powered Fiverr-like platform with [Artica](https://www.artica.com/)
    - [The Pinch Life](https://thepinchlife.com/) - Team Lead for a popular Facility Management Saas in India.
