@@ -1,140 +1,95 @@
-<div align="center">
-
 # Visakh Vijayan
 
-### Senior Full-Stack Engineer
+**Senior Full-Stack Engineer**  
+`Node.js` • `React` • `MongoDB` • `AWS` • `AI` • `Golang`
 
-**8+ years building SaaS, fintech, health & edtech products**
+[vjnvisakh@gmail.com](mailto:vjnvisakh@gmail.com) | +91-7980-544-891  
+[Portfolio](https://www.visakhvijayan.com/) · [LinkedIn](https://www.linkedin.com/in/vjnvisakh) · [GitHub](https://github.com/visakhvjn) · [Medium](https://medium.com/@vjnvisakh) · [LeetCode](https://leetcode.com/u/vjnvisakh) · [Resume PDF](https://www.visakhvijayan.com/resume/Visakh_Vijayan_Resume.pdf)
 
-[![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-22c55e?style=for-the-badge)](mailto:vjnvisakh@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-visakhvijayan.com-0ea5e9?style=for-the-badge)](https://www.visakhvijayan.com/)
-[![Blog](https://img.shields.io/badge/Blog-dumpd.in-8b5cf6?style=for-the-badge)](https://dumpd.in/vjnvisakh)
-[![Resume](https://img.shields.io/badge/Resume-Download-f59e0b?style=for-the-badge)](https://www.visakhvijayan.com/resume/Visakh_Vijayan_Resume.pdf)
-
-[Email](mailto:vjnvisakh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vjnvisakh) · [GitHub](https://github.com/visakhvjn) · [Medium](https://medium.com/@vjnvisakh) · [LeetCode](https://leetcode.com/u/vjnvisakh) · [WhatsApp](https://wa.me/9179805444891)
-
-</div>
-
----
-
-## About Me
-
-I build reliable full-stack software across dynamic products, working closely with clients, customers, and technical stakeholders. I enjoy owning features end-to-end, from planning and architecture to shipping and iteration.
-
----
-
-## Experience
-
-### Unify Technologies — Senior Software Engineer *(Current)*
-`Hyderabad, India` · `Jun 2025 – Present`
-
-Investment, edtech, and AI products, from research and technical documentation to compliance, health, and community platforms.
-
-- **Remus** — aligned product direction and engineering design for a spare-change micro-investment app.
-- **Unify Domains** — delivered NameSilo integrations, payment-failure UX, Stripe/Razorpay hold-authorize flows, and admin tooling.
-- **LVPEI** — helped deploy Open edX on Kubernetes with Dockerized services.
-- **SUMMIT** — built compliance dashboard UI and integrated Python APIs with TanStack Query.
-- **Relaxx.AI** — built a ChatGPT wrapper for prescription upload and conversational medical reports.
-- **MyKula** — delivered backend + frontend for an educator/parent/student social platform.
-- Contributed to web revamps across Unify marketing properties.
-
-**Stack:** `React` `TypeScript` `Next.js` `Node` `NestJS` `OpenAI` `MongoDB` `Postgres` `AWS` `Stripe` `Razorpay` `Docker` `Kubernetes` `Open edX` `TanStack Query` `Python`
-
-<details>
-<summary><b>Previous roles</b></summary>
-
-### Better Software — Senior Software Engineer
-`Bangalore, India` · `Oct 2021 – Mar 2025`
-
-Team lead on facility-management and ad-analytics SaaS; NLP/RAG and enterprise automation across US and India products.
-
-- **[The Pinch Life](https://thepinchlife.com/)** — led a 3-engineer squad, sprint planning, and delivery.
-- **[Recco Joy](https://reccojoy.com/)** — owned backend for a recommendation-focused social app.
-- **[SunLead](https://getsunlead.com/)** — backend engineering for US solar lead generation.
-- **[Nesh](https://www.hellonesh.io/)** — built ingestion repositories powering sales Q&A from product docs.
-- **[Bionic](https://app.bionic.platform.jalantechnologies.com/login)** — UI work for enterprise contractual workflows.
-
-**Stack:** `React` `TypeScript` `Node` `OpenAI` `NLP`
-
-### SeenIt Online — Senior Software Engineer
-`Kolkata, India` · `Feb 2020 – Sep 2021`
-
-- Owned backend for an iOS collections app.
-- Rebuilt catalog search in Elasticsearch with faceted filters.
-
-**Stack:** `Node.js` `iOS` `Elasticsearch` `React` `MongoDB`
-
-### Vawsum Schools — Software Engineer
-`India` · `Oct 2017 – Jan 2020`
-
-- Built and rolled out school fee payments replacing a manual process.
-- Delivered admissions/form tooling and timetable integrations.
-- Built RFID attendance pipelines and parent-facing updates.
-- Built bus tracking with Google Maps and multi-vendor SMS failover routing.
-
-**Stack:** `Node` `.NET` `Payment Gateways` `Google Maps` `RFID` `Chrome Extension`
-
-</details>
+Senior full-stack engineer with 8+ years building fintech, SaaS, healthtech, and edtech products. Strong in requirements research, technical documentation, client and stakeholder communication, team leadership, and shipping production systems with React, Node.js, TypeScript, MongoDB, PostgreSQL, AWS, and AI integrations.
 
 ---
 
 ## Skills
 
-| Area | Technologies |
-| --- | --- |
-| Languages & Frameworks | JavaScript, TypeScript, Node.js, Express, Next.js, React, NestJS, Golang |
-| Databases & ORM | MongoDB, Mongoose, PostgreSQL, Prisma |
-| Testing | Mocha |
-| Cloud & DevOps | AWS, Terraform, Docker, Kubernetes |
-| AI Engineering | RAGs, LangChain, LangGraph, MCP, Cursor |
-| Also Worked With | PHP, Azure, GCP, Elasticsearch, Open edX, Payment Gateways, Google Maps APIs, Tailwind CSS, Make.com |
+1. **Languages & frameworks** — JavaScript, TypeScript, Node.js, Express, Next.js, React, NestJS, Golang  
+2. **Databases & ORM** — MongoDB, Mongoose, PostgreSQL, Prisma  
+3. **Testing** — Mocha  
+4. **Cloud & DevOps** — AWS, Terraform, Docker, Kubernetes  
+5. **AI engineering & tooling** — RAGs, LangChain, LangGraph, Model Context Protocol (MCP), Cursor
 
 ---
 
-## Featured Projects
+## Work Experience (8+ years)
 
-| Project | What it does | Links |
-| --- | --- | --- |
-| **Dumpd!** | Content engine with MCP server for AI assistants to draft, manage, and publish markdown content. | [Details](https://www.visakhvijayan.com/projects/dumpd) · [Live](https://dumpd.in/) |
-| **iDent Dental** | Marketing site for a dental specialty center with services, testimonials, and booking flows. | [Details](https://www.visakhvijayan.com/projects/ident-dental) · [Live](https://www.identdentalcare.com/) |
-| **QuizPrep** | AI quiz builder for interview prep and study groups with instant feedback and sharing. | [Details](https://www.visakhvijayan.com/projects/quiz-prep) · [Live](https://quiz-prep-sigma.vercel.app/) |
-| **AI Debator** | Multi-agent AI debate app exploring role-based, turn-driven conversational UX. | [Details](https://www.visakhvijayan.com/projects/ai-debator) · [Live](https://ai-debator-liart.vercel.app/) |
-| **Innovative & Strategic F.Z.E** | UAE consultancy website covering services, packages, FAQs, and consultations. | [Details](https://www.visakhvijayan.com/projects/innovative-strategic) · [Live](https://www.innovativestrategic.com/) |
-| **Rolush Cafe** | Cake studio storefront with custom orders, cart, and WhatsApp-led inquiry flow. | [Details](https://www.visakhvijayan.com/projects/rolush) · [Live](https://rolush-web-app.vercel.app/) |
+### Unify Technologies, Hyderabad, India *(Jun 2025 – Present)*
+**Senior Software Engineer**
 
-➡️ Explore more at [visakhvijayan.com](https://www.visakhvijayan.com/#projects)
+- **Remus** — led technical research and end-to-end documentation for a spare-change micro-investment app; walked client stakeholders and engineering management through requirements, architecture, flows, and implementation details to align delivery.
+- **[Unify Domains](https://unify.domains/)** — full-stack engineer on a NameSilo domain-reseller platform; with product and QA, designed end-to-end reseller flows, coordinated integration with the NameSilo team, revamped UI for payment failures and Stripe/Razorpay escrow hold-and-authorize payments, and built an admin panel with a 360 degree view of purchases, renewals, and account activity.
+- **LVPEI** — set up an Open edX LMS on a Kubernetes cluster with the DevOps team; dockerized platform components, learned new deployment tooling, and brought services online on k8s for institutional course delivery.
+- **[SUMMIT](https://lemon-mud-07e985e0f.6.azurestaticapps.net/)** — built a compliance dashboard UI from scratch (React, TypeScript); integrated Python backend compliance APIs with TanStack Query for caching, retries, and preserved client state across regulated reporting and violation-detection workflows.
+- **[Relaxx.AI](https://relaxx.ai/)** — built a ChatGPT/OpenAI wrapper that lets users upload patient prescriptions, generates structured medical reports, and supports conversational voice interaction with preserved session context.
+- **MyKula** — full-stack engineer on a social platform for educators, students, and parents; built NestJS backend and React frontend for community features and engagement.
+- **[Unify marketing web](https://www.unifytech.com/)** — contributed to company website revamps across Unify properties.
+
+### Better Software, Bangalore, India *(Oct 2021 – Mar 2025)*
+**Senior Software Engineer**
+
+- **[The Pinch Life](https://thepinchlife.com/)** — team lead for a 3-engineer squad on a facility-management SaaS in India; gathered requirements with clients, owned sprint planning and prioritization, and delivered features used daily by operations teams.
+- **[Recco Joy](https://reccojoy.com/)** — backend owner for a closed social platform surfacing nearby product recommendations from a user's nearest circle (Node.js, APIs, data models).
+- **[SunLead](https://getsunlead.com/)** — backend engineer on a US-focused solar lead-generation product (Node.js, APIs, data pipelines).
+- **[Nesh](https://www.hellonesh.io/)** — backend engineer on a multi-engineer team building a Q&A platform for chemical sales companies; ingested product documents into company repositories so sales teams could ask questions and get grounded answers to support deals (OpenAI, NLP).
+- **[Bionic](https://app.bionic.platform.jalantechnologies.com/login)** — UI engineer for enterprise contractual workflow automation.
+
+### SeenIt Online, Kolkata, India *(Feb 2020 – Sep 2021)*
+**Senior Software Engineer**
+
+- **SeenIt** — owned backend APIs for a new iOS app enabling recommended dress collections, supporting creation, surfacing, and collection workflows for the mobile experience.
+- Rebuilt product search from scratch in Elasticsearch with Amazon-style left-side filters and faceted catalog browse for faster, filter-driven discovery.
+
+### Vawsum Schools, India *(Oct 2017 – Jan 2020)*
+**Software Engineer**
+
+- **[Vawsum](https://vawsum.com/)** — single-handedly introduced the school fee payments module, replacing an all-manual fee collection process; delivered backend and mobile integration across payment gateways and trained parents and school stakeholders on digital payments.
+- Built Vawme (course prescription), drag-and-drop enquiry/forms for admissions and certificates, and timetable integrations.
+- **RFID attendance** — visited each school on-site to demo the rollout; delivered mobile app attendance, parent-facing updates, and backend reporting for school admins.
+- **[Trakkerz](https://trakkerz.com/)** — integrated bus tracking with Google Maps live view (.NET services).
+- **SMS vendor platform** — built failsafe routing across multiple SMS vendors with automatic rerouting on failure or heavy load; delivered sent/delivered reporting and a Google Chrome extension for company-wide vendor balance tracking.
 
 ---
 
 ## Education
 
-| Degree | Institution | Year | Score |
-| --- | --- | --- | --- |
-| MCA | National Institute of Technology, Jamshedpur | 2014 – 2017 | CGPA 8.5 |
-| B.Sc (Hons) Computer Science | JCC, Kolkata | 2011 – 2014 | 70% |
+1. MCA from National Institute of Technology, Jamshedpur (2014-2017) with CGPA 8.5.  
+2. B.Sc (Hons) Computer Science from JCC, Kolkata (2011-2014) with 70%.
 
 ---
 
-## Recommendations
+## Projects
 
-> "Visakh is an extremely hard working and efficient colleague... proactive with exceptional problem solving skills."
->
-> **Annapurna Chowdhury** · Ex-StockEdge
-
-> "Collaborating with Visakh has been a great experience... his proactive approach helps the team consistently achieve business goals."
->
-> **Tanuj Kalra** · Product Manager
-
-> "One of the most versatile and finest coders I have worked with... he can visualize business impact in every line of code."
->
-> **Indrasish Majumder** · Marketing · IIM · IIEST
-
-[Read more on LinkedIn](https://www.linkedin.com/in/vjnvisakh)
+1. **Dumpd!** — MCP-powered content engine: manage drafts and publishing from AI assistants, with public `/username` blogs and a creator dashboard.  
+   [Details](https://www.visakhvijayan.com/projects/dumpd) · [Live](https://dumpd.in/)
+2. **iDent Dental** — dental clinic marketing site with services, before/after testimonials, doctor profiles, and appointment booking in Kochi.  
+   [Details](https://www.visakhvijayan.com/projects/ident-dental) · [Live](https://www.identdentalcare.com/)
+3. **QuizPrep** — AI quiz platform for interview prep and educators: topic-based generation, public sharing, and attempt tracking.  
+   [Details](https://www.visakhvijayan.com/projects/quiz-prep) · [Live](https://quiz-prep-sigma.vercel.app/)
+4. **AI Debator** — multi-agent AI debate app with opposing viewpoints and turn-taking beyond single-chat UIs.  
+   [Details](https://www.visakhvijayan.com/projects/ai-debator) · [Live](https://ai-debator-liart.vercel.app/)
+5. **Innovative & Strategic F.Z.E** — consultancy marketing site with service pages, packages, FAQ, and consultation booking for a UAE accounting firm.  
+   [Details](https://www.visakhvijayan.com/projects/innovative-strategic) · [Live](https://www.innovativestrategic.com/)
+6. **Many more** at [visakhvijayan.com](https://www.visakhvijayan.com/)
 
 ---
 
-## Certificate
+## Achievements
 
-| Certificate | Issuer | Completed | Links |
-| --- | --- | --- | --- |
-| React: A Quick Understanding | Udemy | June 2026 | [Verify](https://ude.my/UC-377896ba-6311-46e9-9e33-e9b21ab30ce5) · [Blog](https://dumpd.in/vjnvisakh/topics/reactjs) |
+- Best Employee of the Year, 2018 — Vawsum Schools
+
+## Languages
+
+- English, Hindi, Bengali, Malayalam
+
+## Interests
+
+- Cycling, Reading, Competitive Programming, Music
