@@ -1,65 +1,132 @@
 # Visakh Vijayan
 
-[Download Resume](https://drive.google.com/file/d/1OGcmPgPFRqDTkRhmtEWiLc9QiGSGur06/view)
+**Senior Full-Stack Engineer** · 8+ years building SaaS, fintech, health & edtech products
 
-Having worked closely with all the stakeholders(client, customer, and technical), I am
-easily flexible in handling pressure conditions. I am also motivated to work individually
-or as a team as the situation arises. As an accomplished software engineer with **seven+** years of dedicated experience, I bring a proven track record of delivering innovative software solutions and contributing to the success of dynamic projects. My passion for programming and commitment to excellence have enabled me to consistently exceed expectations and drive results in the ever-evolving tech industry.
+🟢 Available for opportunities
 
-### PROFILES
+I deliver reliable full-stack software across dynamic products—working closely with clients, customers, and technical stakeholders. Adaptable under pressure, from payments and migrations to AI integrations and team leadership.
 
-Contact @ [LinkedIn](https://www.linkedin.com/in/the-visakh-vijayan/) | [Medium](https://medium.com/@vjnvisakh) | [Fiverr](https://www.fiverr.com/vjnvisakh?public_mode=true) | [Stack Overflow](https://stackoverflow.com/users/7426254/visakh-vijayan) <br />
-Compete @ [Hacker Rank](https://www.hackerrank.com/vjnvisakh) | [Code Chef](https://www.codechef.com/users/vjnvisakh) | [Leet Code](https://leetcode.com/u/xahMj54rAT/) | [Hacker Earth](https://www.hackerearth.com/@vjnvisakh) | [Coder Byte](https://coderbyte.com/profile/vjnvisakh) <br />
-Reading @ [Goodreads](https://www.goodreads.com/review/list/113974334?ref=nav_mybooks) <br />
-Streak @ [FreeCodeCamp](https://www.freecodecamp.org/vjnvisakh) | [Codecademy](https://www.codecademy.com/profiles/vjnvisakh)
+[Portfolio](https://www.visakhvijayan.com/) · [Download Resume](https://drive.google.com/file/d/1OGcmPgPFRqDTkRhmtEWiLc9QiGSGur06/view) · [Blog](https://dumpd.in/vjnvisakh)
+
+[vjnvisakh@gmail.com](mailto:vjnvisakh@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vjnvisakh) · [Medium](https://medium.com/@vjnvisakh) · [LeetCode](https://leetcode.com/u/vjnvisakh) · [GitHub](https://github.com/visakhvjn) · [WhatsApp](https://wa.me/9179805444891)
 
 <hr />
 
-### TECH STACK
+## Experience
 
-1. Languages & Frameworks - Node, Express, React, TypeScript, NextJs
-2. Databases - Mongodb, Mongoose
-3. Testing - Mocha
-4. Cloud & DevOps - AWS, Terraform, Docker (compose)
-5. Gen AI - Openai APIs, RAGs, Embeddings, etc
-6. Other - Microservices
+8+ years across product companies — from payments and migrations to AI and team leadership.
+
+### Unify Technologies — Senior Software Engineer *(Current)*
+
+Hyderabad, India · Jun 2025 – Present
+
+Investment, edtech, and AI products — from Remus research and technical documentation to compliance, health, and community platforms.
+
+- **Remus** — researched product and engineering approach, documented requirements and system design, and aligned client stakeholders and engineering leadership on a spare-change micro-investment app.
+- **Unify Domains** — full-stack on a NameSilo-powered domain reseller with PM and QA: NameSilo integration, payment-failure UX, Stripe/Razorpay escrow hold-and-authorize flows, and an admin panel for purchases, renewals, and activity.
+- **LVPEI** — helped set up an Open edX LMS on a Kubernetes cluster with the DevOps team; dockerized services and learned new tooling to run the platform on k8s.
+- **SUMMIT** — built the compliance dashboard UI from scratch; wired Python backend compliance APIs with TanStack Query for caching, retries, and state preservation.
+- **Relaxx.AI** — built a ChatGPT wrapper to upload patient prescriptions and generate medical reports users can discuss conversationally, with context preserved across the session.
+- **MyKula** — built backend and frontend for a social app connecting educators, students, and parents (NestJS, React).
+- Contributed to company web revamps across Unify marketing properties.
+
+`React` `TypeScript` `Next.js` `Node` `NestJS` `OpenAI` `MongoDB` `Postgres` `AWS` `Stripe` `Razorpay` `Docker` `Kubernetes` `Open edX` `TanStack Query` `Python`
+
+### Better Software — Senior Software Engineer
+
+Bangalore, India · Oct 2021 – Mar 2025
+
+Team lead on facility-management and ad-analytics SaaS; NLP/RAG and enterprise automation across US and India products.
+
+- **[The Pinch Life](https://thepinchlife.com/)** — team lead for a 3-engineer squad building a facility-management SaaS in India; gathered requirements with clients, owned sprint planning and prioritization, and shipped features operations teams rely on daily.
+- **[Recco Joy](https://reccojoy.com/)** — owned the backend for a closed social app that recommends nearby products from your nearest circle.
+- **[SunLead](https://getsunlead.com/)** — backend engineer on a US-focused solar lead-generation product.
+- **[Nesh](https://www.hellonesh.io/)** — backend engineer on a Q&A platform for chemical sales teams; built ingestion repositories so new companies' product documents could power sales questions.
+- **[Bionic](https://app.bionic.platform.jalantechnologies.com/login)** — UI engineer for contractual workflow automation for enterprises.
+
+`React` `TypeScript` `Node` `OpenAI` `NLP`
+
+### SeenIt Online — Senior Software Engineer
+
+Kolkata, India · Feb 2020 – Sep 2021
+
+iOS collections backend, Elasticsearch search rebuild, and luxury fashion e-commerce.
+
+- **SeenIt** — owned backend for a new iOS app that let users create recommended collections of dresses.
+- Rewrote catalog search from scratch in Elasticsearch with Amazon-style left-panel filters and faceted browse.
+
+`Node.js` `iOS` `Elasticsearch` `React` `MongoDB`
+
+### Vawsum Schools — Software Engineer
+
+India · Oct 2017 – Jan 2020
+
+School payments, admissions tooling, RFID attendance, bus tracking, and internal ops panels.
+
+- **[Vawsum](https://vawsum.com/)** — single-handedly introduced the school fee payments module—replacing a fully manual process with backend and mobile changes across gateways, and trained parents and school stakeholders.
+- Built Vawme (course prescription), drag-and-drop enquiry/forms for admissions and certificates, and timetable integrations.
+- **RFID attendance** — visited schools on-site to demo the process; built app-based attendance, parent-facing updates, and backend reporting.
+- **[Trakkerz](https://trakkerz.com/)** — bus tracking with Google Maps live view (.NET services).
+- **SMS routing** — built failsafe multi-vendor SMS routing with failover on errors or traffic spikes, sent/delivered reporting, and a Chrome extension to track vendor balances.
+
+`Node` `.NET` `Payment gateways` `Google Maps` `RFID` `Chrome extension`
 
 <hr />
 
-### WORK EXPERIENCE (7+ years)
+## Skills
 
-1. **Unify Technologoes, Hyderabad, India (June' 25 - Present)**
-   - [MyKula](/) - A closed community for parents, educators and local businesses.
-2. **Better Software, Bangalore, India (Oct’ 21 - March' 25)**
-   - [Nesh](https://www.hellonesh.io/) - BE developer for an AI-powered knowledge engine
-   - [Bionic](https://app.bionic.platform.jalantechnologies.com/login) - FE developer for an AI-powered Fiverr-like platform with [Artica](https://www.artica.com/)
-   - [The Pinch Life](https://thepinchlife.com/) - Team Lead for a popular Facility Management Saas in India.
-   - [SunLead](https://getsunlead.com/) - Senior Engineer for a solar lead generation tool for US markets.
-   - [Recco Joy](https://reccojoy.com/) - Senior Engineer for a product that allowed giving recommendations to products and businesses. Allowed businesses a bird’s eye view of the ad performance and offer disbursals.
-3. **SeenIt Online Pvt Ltd, Kolkata, India (Feb’ 20 - Sep’ 21)**
-
-   - [StyleAde](https://stylesend.io/) - Migrating the company’s legacy stack built on PHP to the MERN stack.
-   - Worked on an eCommerce vendor onboarding app that allowed luxury brand CRMs to have a B2C app with the least latency.
-   - Worked with elastic search to improve the user search experience along with faceted search.
-
-4. **Vawsum Schools Pvt Ltd (Oct’ 16 - Jan’ 20)**
-   - [Vawsum](https://vawsum.com/) - Designed a payments module for school fee collection and an aggregator panel for the company and the school admins. Paved way for all types of transactions at schools using payment gateways.
-   - [Vawme](https://vawsum.com/cultivate-21st-century-skills-in-students-vawme-vawsum/) - A teaching assistant that allowed to prescribe courses to students based on the classes and curriculum.
-   - Integration of a 3rd party time-table generation software for classes. Allowed to assign teachers to free periods and adjusted for absent teachers.
-   - [Enquiry](https://vawsum.com/growth-best-admission-driving-software/) - Admission inquiry using a Google Forms type model. Customized drag-and-drop forms that allowed to creation of forms for any occasion. Schools used them for admissions, certificates, mark sheets, etc.
-   - Integrated RFID readers at schools to set up student attendances which were funneled to parents as well.
-   - [Trakkerz](https://trakkerz.com/) - Worked on .net to create services for a school bus tracking application. Integrated Google Maps to show a live view of buses on the admin panel.
-   - A simple SMS module for the company to keep track of the SMSes being sent via multiple vendors in a single panel. The panel allowed easy switching between vendors and auto-prioritizing based on load.
+| Area | Technologies |
+| --- | --- |
+| Languages & frameworks | JavaScript · TypeScript · Node.js · Express · Next.js · React · NestJS · Golang |
+| Databases & ORM | MongoDB · Mongoose · PostgreSQL · Prisma |
+| Testing | Mocha |
+| Cloud & DevOps | AWS · Terraform · Docker · Kubernetes |
+| AI engineering & tooling | RAGs · LangChain · LangGraph · Model Context Protocol (MCP) · Cursor |
+| Also worked with | PHP · Azure · GCP · Elasticsearch · Open edX · Payment gateways · Google Maps APIs · Tailwind CSS · Make.com |
 
 <hr />
 
-### CERTIFICATIONS
+## Projects
 
-1. [Digital Ocean Cloud Platform Fundamentals](https://github.com/visakhvjn/visakhvjn/assets/17998358/ccf69d1a-0b82-4f25-b2ad-9230719cc8e2)
+Browse the work — open a live demo or [view the full portfolio](https://www.visakhvijayan.com/#projects).
+
+| Project | Description | Demo |
+| --- | --- | --- |
+| **[Dumpd!](https://www.visakhvijayan.com/projects/dumpd)** | Content engine with an MCP server for AI assistants — draft, publish, and manage markdown posts from Cursor and other clients. | [Live](https://dumpd.in/) |
+| **[iDent Dental](https://www.visakhvijayan.com/projects/ident-dental)** | Marketing site for a Kochi dental speciality and cosmetic centre — services, testimonials, doctor profiles, and appointment booking. | [Live](https://www.identdentalcare.com/) |
+| **[QuizPrep](https://www.visakhvijayan.com/projects/quiz-prep)** | AI quiz builder for interview candidates, teachers, and study groups — instant feedback, explanations, public sharing, and attempt tracking. | [Live](https://quiz-prep-sigma.vercel.app/) |
+| **[AI Debator](https://www.visakhvijayan.com/projects/ai-debator)** | Multi-agent AI debate experience with opposing viewpoints and turn-taking beyond single-assistant chat. | [Live](https://ai-debator-liart.vercel.app/) |
+| **[Innovative & Strategic F.Z.E](https://www.visakhvijayan.com/projects/innovative-strategic)** | Marketing site for a UAE accounting and management consultancy — service areas, packages, FAQ, and consultation booking. | [Live](https://www.innovativestrategic.com/) |
+| **[Rolush Cafe](https://www.visakhvijayan.com/projects/rolush)** | Custom cake studio web app for a Kannur bakery — browse categories, customise orders, cart checkout, and WhatsApp-led enquiries. | [Live](https://rolush-web-app.vercel.app/) |
 
 <hr />
 
-### PROJECTS
+## Education
 
-1. [dumpd.in](https://www.dumpd.in/) - A blogging platform managed by AI personalities. It has everything you need - topics, stories, custom blogs etc. Running successfully with over 100 DAU.
-2. [Typing Master](https://the-typing-master.netlify.app/) - If you have ever felt the need to up your typing game, then wait no more. Typing Master allows you to practice daily and build a streak.
+| Degree | Institution | Years | Result |
+| --- | --- | --- | --- |
+| Master of Computer Applications (MCA) | National Institute of Technology, Jamshedpur | 2014 – 2017 | CGPA 8.5 |
+| B.Sc (Hons) Computer Science | JCC, Kolkata | 2011 – 2014 | 70% |
+
+<hr />
+
+## Recommendations
+
+> “Visakh is an extremely hard working and efficient colleague one can work with. He's very proactive and has exceptional problem solving skills. Someone with an innovative mind, he's well-equipped to add Midas Touch to any project he works on.”
+> — **Annapurna Chowdhury**, Ex-StockEdge
+
+> “Collaborating with Visakh on various projects has been a great experience. His proactive approach consistently contributes to our team's success in achieving business objectives.”
+> — **Tanuj Kalra**, Product Manager
+
+> “One of the most versatile and finest coders I have worked with, till date… he has a great business brain and can visualise the financial and business impact of every single line of code that he writes.”
+> — **Indrasish Majumder**, Marketing · IIM · IIEST
+
+[More recommendations on LinkedIn →](https://www.linkedin.com/in/vjnvisakh)
+
+<hr />
+
+## Certificates
+
+| # | Certificate | Issuer | Completed | Credential |
+| --- | --- | --- | --- | --- |
+| 1 | React: A Quick Understanding | Udemy | June 2026 | [Verify](https://ude.my/UC-377896ba-6311-46e9-9e33-e9b21ab30ce5) · [Blog](https://dumpd.in/vjnvisakh/topics/reactjs) |
